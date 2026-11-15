@@ -1,0 +1,3 @@
+image,class,confidence,x1,y1,x2,y2,width_pixels,height_pixels,mask_area_pixels,estimated_width_cm,estimated_height_cm
+image1.jpg,zebra,0.8806,73,42,331,250,258,208,30198,,
+image2.jpg,teddy bear,0.7718,95,70,329,324,234,254,30077,,
